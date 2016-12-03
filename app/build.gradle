@@ -4,7 +4,7 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.3"
     defaultConfig {
-        applicationId "id.sch.smktelkom_mlg.learn.recycleview1"
+        applicationId "id.sch.smktelkom_mlg.learn.recycleview2"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1

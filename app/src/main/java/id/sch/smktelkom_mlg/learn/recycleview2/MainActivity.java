@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recycleview1;
+package id.sch.smktelkom_mlg.learn.recycleview2;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -13,8 +13,8 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recycleview1.adapter.HotelAdapter;
-import id.sch.smktelkom_mlg.learn.recycleview1.model.Hotel;
+import id.sch.smktelkom_mlg.learn.recycleview2.adapter.HotelAdapter;
+import id.sch.smktelkom_mlg.learn.recycleview2.model.Hotel;
 
 public class MainActivity extends AppCompatActivity {
 

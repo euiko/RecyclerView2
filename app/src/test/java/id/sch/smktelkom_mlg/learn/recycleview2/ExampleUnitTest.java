@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recycleview1;
+package id.sch.smktelkom_mlg.learn.recycleview2;
 
 import org.junit.Test;
 
